@@ -8,7 +8,7 @@ All you have to do is replace the word "token" with the access provided by the A
 
 Once access is configured, we will install the packages and run the program:
 
-1. Keep in mind that you must have python3 previously installed in your local environment.
+1. Keep in mind that you must have python3 previously installed in your local environment and a virtual env should be initialized (but not necessarily).
 
 2. To install the packages, just run the command: "pip3 install -r requirements.txt"
 It is possible that there are some packages not needed (the configuration has been generated automatically).
