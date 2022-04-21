@@ -8,7 +8,7 @@ def main():
                     level=logging.DEBUG) 
     logging.info('starting main')
 
-    ApiKey = "ce47bb87fbmsh394ea68d0e96c5cp1e06a1jsnf32d761d673e"
+    ApiKey = "yourAPIkey"
     cities = {
         classes.city("Tokio", "139.6917", "35.6895"),
         classes.city("Nueva York", "-73.935242", "40.730610")
